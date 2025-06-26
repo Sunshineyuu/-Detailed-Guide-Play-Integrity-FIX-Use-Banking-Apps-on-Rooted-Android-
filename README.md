@@ -1,1 +1,2 @@
-# -Detailed-Guide-Play-Integrity-FIX-Use-Banking-Apps-on-Rooted-Android-
+# Detailed-Guide-Play-Integrity-FIX-Use-Banking-Apps-on-Rooted-Android
+
