@@ -4,13 +4,17 @@ Works with: Android 13/14/15.
 
 🌱Module Requirements | Description;
 
-> ZygiskNext(https://github.com/Dr-TSNG/ZygiskNext) : Standalone Zygisk framework, Latest supports [ Magisk,KSU,Patch ]
+> [ZygiskNext](https://github.com/Dr-TSNG/ZygiskNext) : Standalone Zygisk framework, Latest supports [ Magisk,KSU,Patch ]
 
-> Shamiko      : Hides root & Magisk from detection
-> Tricky Store   : Fixes key attestation issues
-> Tricky Addon : Updates target list for better spoofing
-> PlayIntegrityFix / PlayIntegrityFork : Helps pass Play Integrity [basic, device, strong]
-> KSU Web UI  : Browser-based interface for managing Magisk/KernelSU modules.
+> [Shamiko](https://github.com/LSPosed/LSPosed.github.io/releases)      : Hides root & Magisk from detection
+
+> [Tricky Store](https://github.com/5ec1cff/TrickyStore)   : Fixes key attestation issues
+
+> [Tricky Addon](https://github.com/KOWX712/Tricky-Addon-Update-Target-List) : Updates target list for better spoofing
+
+> [PlayIntegrityFix](https://github.com/chiteroman/PlayIntegrityFix) / [PlayIntegrityFork](https://github.com/osm0sis/PlayIntegrityFork) : Helps pass Play Integrity [basic, device, strong]
+
+> [KSU Web UI](https://github.com/5ec1cff/KsuWebUIStandalone)  : Browser-based interface for managing [Magisk](https://github.com/topjohnwu/Magisk)/KernelSU modules.
 
 Note: No need to turn on Inbuilt Zygisk [ Zygisk Next ] is a Standalone and it'll take it's place.
 ____
@@ -21,7 +25,7 @@ Ensure,
 
 💢 No traces of old modules, entries & modifications;
 
-⟩ Magisk installed [ Do not modify or turn on unnecessary settings on your own! ].
+⟩ [Magisk](https://github.com/topjohnwu/Magisk) installed [ Do not modify or turn on unnecessary settings on your own! ].
 ⟩ Root access gained 
 ⟩ Disabled ROM's inbuilt Device Integrity spoof
 ⟩ A working custom ROM or stock ROM [ Proper installation ] Improper installation of ROM causes major issues.
@@ -163,8 +167,10 @@ ____
 
 🌿 Device certification will expire after few months [Inevitable] just redo the whole process to regain.
 ____
-Updates~@Sunshineyou_enigma 🌿
+Updates~[@Sunshineyou_enigma](https://t.me/Sunshineyou_enigma) 🌿
 
-GitHub - Telegram 
-Join @Customromsupportofficial 🌿
-Follow @customromsupportHUB 🌿
+[GitHub - Telegram]
+
+Join [@Customromsupportofficial](https://t.me/Customromsupportofficial) 🌿
+
+Follow [@customromsupportHUB](https://t.me/customromsupportHUB) 🌿
