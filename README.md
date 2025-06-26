@@ -4,7 +4,8 @@ Works with: Android 13/14/15.
 
 🌱Module Requirements | Description;
 
-> ZygiskNext  : Standalone Zygisk framework, Latest supports [ Magisk,KSU,Patch ]
+> ZygiskNext(https://github.com/Dr-TSNG/ZygiskNext) : Standalone Zygisk framework, Latest supports [ Magisk,KSU,Patch ]
+
 > Shamiko      : Hides root & Magisk from detection
 > Tricky Store   : Fixes key attestation issues
 > Tricky Addon : Updates target list for better spoofing
