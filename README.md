@@ -1,6 +1,6 @@
 [ Detailed Guide ] Play Integrity FIX & Use Banking Apps on Rooted Android 🌿
 
-Works with: Android 13/14/15.
+Works with: Android 11/12/13/14/15
 
 🌱Module Requirements | Description;
 
@@ -17,7 +17,7 @@ Works with: Android 13/14/15.
 > [KSU Web UI](https://github.com/5ec1cff/KsuWebUIStandalone)  : Browser-based interface for managing [Magisk](https://github.com/topjohnwu/Magisk)/KernelSU modules.
 
 Note: No need to turn on Inbuilt Zygisk [ Zygisk Next ] is a Standalone and it'll take it's place.
-____
+_ _ _
 
 Let's begin,
 
@@ -29,7 +29,7 @@ Ensure,
 ⟩ Root access gained 
 ⟩ Disabled ROM's inbuilt Device Integrity spoof
 ⟩ A working custom ROM or stock ROM [ Proper installation ] Improper installation of ROM causes major issues.
-____
+_ _ _
 
 🌴Install Required Modules as Following:
 
@@ -42,11 +42,11 @@ ____
 >> Reboot the Device <<
 
 Note:
-> Only, install one of ReZygisk or ZygiskNext [ prefer ZygiskNext ] recommended.
+> Only, install one of ReZygisk or ZygiskNext [ prefer ZygiskNext ]
 
-> Play Integrity Fork / Fix [ prefer Play Integrity fork ] Recommended.
+> Play Integrity Fork / Fix [ prefer Play Integrity fork ]
 
-____
+_ _ _
 
 🌴Installation...
 
@@ -70,14 +70,14 @@ If it fails 💢 Do it manually
 Click Advanced;
 
 System  > prop
-Boot    > 2025-05-05
-Vendor  > 2025-05-05
+Boot    > 2025-06-05
+Vendor  > 2025-06-05
 
 Click save! [ Window will be closed ] and save in the end before closing the app.
 
 Note:
 > Do not forgot to click save option in the main menu!
-____
+_ _ _
 
 🌴Now, 
 Clear the Data & cache of;
@@ -88,14 +88,14 @@ Clear the Data & cache of;
 > Google app [ Optional ]
 
 >> Reboot your device <<
-____
+_ _ _
 
 Caution⚠️: Highlighted Note;
 
 Do not spam the Play Integrity Checker. Or [ Face the consequences of getting Flagged ]. Even though play Integrity passed before, it won't pass after that.
 
 ⚡Alternative to confirm Integrity: Play Store > settings > about > "Device Certified". if Integrity passed.
-____
+_ _ _
 
 🌴Verify Play Integrity;
 
@@ -110,7 +110,7 @@ Make sure the following PASS:
 > Strong Integrity 🌿
 
 [ Don't get confused – Yeah, everything will pass and it should be ]
-____
+_ _ _
 
 🌴Troubleshooting...
 
@@ -123,7 +123,7 @@ And >> Reboot << And then check the Integrity again;
 Now it should be fixed, otherwise wipe again and >> Reboot << and check for Integrity pass.
 
 Or repeat the whole process ⚠️
-____
+_ _ _
 
 🌱 Do, next step, only if the play Integrity passed.
 
@@ -156,14 +156,14 @@ Ex: Settings+
 
 Apps like Paytm will no longer show “non-standard firmware” and root detected.
 
-____
+_ _ _
 
 ✅ Done! Completed!
 
 Now you can pass all integrity checks, Use all banking apps, Use Magisk modules freely without detection.
-____
+_ _ _
 
-🌿 Guide tested on Android 15 [Friday_May_24_2025]
+🌿 🌿 Tested on A15 [ Updated Guide [ Sunday, June_07_2025_13:30:07UTC+05 ]
 
 🌿 Device certification will expire after few months [Inevitable] just redo the whole process to regain.
 ____
